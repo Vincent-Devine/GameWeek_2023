@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ffd9d0b4-a17c-4101-a2c4-be74173ea481}">
+		<property name="assetPath">
+			<value>Crab_cut.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.29449999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9aa63eda-a7b2-4fc3-8a00-370f1ead5a11}</destination>
+		</relationship>
+	</object>
+</objects>

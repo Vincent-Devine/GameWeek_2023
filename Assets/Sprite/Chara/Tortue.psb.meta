@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 6ec82cac8e136da478455dd7a52db0ce
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "nageoire_arri\xE8re"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2346
+      y: 1146
+      width: 515
+      height: 305
+    spriteID: 8097989def3983e4786261f00bdba8c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2346, y: 1146}
+    spritePosition: {x: 2670, y: 805}
+  - name: nageoire_Avant
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2346
+      y: 4
+      width: 688
+      height: 720
+    spriteID: f88135fb4a638714aafafd287b26fbcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2346, y: 4}
+    spritePosition: {x: 1452, y: 279}
+  - name: Avant_bras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2346
+      y: 1459
+      width: 206
+      height: 244
+    spriteID: 637cc0546ff67984b80f0f1d473db8d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2346, y: 1459}
+    spritePosition: {x: 1526, y: 842}
+  - name: "Oeil_ferm\xE9"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2560
+      y: 1459
+      width: 195
+      height: 142
+    spriteID: 028e49bf892b1a8438c60dc080d58810
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2560, y: 1459}
+    spritePosition: {x: 1066, y: 1189}
+  - name: "t\xEAte"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2346
+      y: 732
+      width: 566
+      height: 406
+    spriteID: 0d6a3ba6c47c0014fa45f29697588a46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2346, y: 732}
+    spritePosition: {x: 898, y: 1000}
+  - name: carapace
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2334
+      height: 1533
+    spriteID: 44568d57a16dd444480e921411e3522c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 664, y: 347}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "nageoire_arri\xE8re"
+    spriteName: "nageoire_arri\xE8re"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8097989def3983e4786261f00bdba8c7
+    layerID: 102
+    mosaicPosition: {x: 2346, y: 1146}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: nageoire_Avant
+    spriteName: nageoire_Avant
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f88135fb4a638714aafafd287b26fbcd
+    layerID: 99
+    mosaicPosition: {x: 2346, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Avant_bras
+    spriteName: Avant_bras
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 637cc0546ff67984b80f0f1d473db8d5
+    layerID: 118
+    mosaicPosition: {x: 2346, y: 1459}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Oeil_ferm\xE9"
+    spriteName: "Oeil_ferm\xE9"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 028e49bf892b1a8438c60dc080d58810
+    layerID: 121
+    mosaicPosition: {x: 2560, y: 1459}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "t\xEAte"
+    spriteName: "t\xEAte"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0d6a3ba6c47c0014fa45f29697588a46
+    layerID: 96
+    mosaicPosition: {x: 2346, y: 732}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: carapace
+    spriteName: carapace
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44568d57a16dd444480e921411e3522c
+    layerID: 97
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

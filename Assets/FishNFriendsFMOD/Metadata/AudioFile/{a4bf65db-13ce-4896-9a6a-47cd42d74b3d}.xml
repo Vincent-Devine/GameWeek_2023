@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a4bf65db-13ce-4896-9a6a-47cd42d74b3d}">
+		<property name="assetPath">
+			<value>Level_escape_loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>40</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9aa63eda-a7b2-4fc3-8a00-370f1ead5a11}</destination>
+		</relationship>
+	</object>
+</objects>
